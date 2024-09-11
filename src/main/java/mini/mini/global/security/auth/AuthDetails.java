@@ -18,7 +18,6 @@ public class AuthDetails implements UserDetails {
         return null;
     }
 
-
     @Override
     public String getPassword() {
         return null;
